@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732073445769",
+    "project_id": "latihan-json-firestore",
+    "storage_bucket": "latihan-json-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732073445769:android:3f8085f6bfd04dfbbd7958",
+        "android_client_info": {
+          "package_name": "com.example.latihancrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdljiu6SmbUafzuUdqKIQkhrTHLDI50g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
